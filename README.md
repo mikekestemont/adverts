@@ -4,7 +4,7 @@
 
 This repository holds the code and data which were used for the publication:
 
-> De Mulder, A.; Fonteyn, L. & Kestemont, M. "Linguistic value construction in 18th-century London auction advertisements: a quantitative approach". *Proceedings of the Conference on Computational Humanities Research 2022. Antwerp, Belgium, 12-14 December, 2023.
+> De Mulder, A.; Fonteyn, L. & Kestemont, M. "Linguistic value construction in 18th-century London auction advertisements: a quantitative approach". *Proceedings of the Conference on Computational Humanities Research 2022*. Antwerp, Belgium, 12-14 December, 2023.
 
 The contents are structured as follows:
 - `requirements.txt`: Python requirements file for use with pip

@@ -1,4 +1,4 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DOI](https://zenodo.org/badge/353380984.svg)](https://zenodo.org/badge/latestdoi/353380984)
 
 # Linguistic value construction in 18th-century London auction advertisements
 
